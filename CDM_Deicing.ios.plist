@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>https://192.168.10.196/app/CDM_Deicing.ios.ipa</string>
+                                        <string>https://raw.githubusercontent.com/sam629205/mine/master/CDM_Deicing.ios.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
